@@ -2,7 +2,7 @@
 
 L’objectif ici est de donner un panorama de l’état de la malnutrition dans le monde.
 
-Après avoir réalisé une analyse eploratoire des données, les informations suivantes seront représentés :
+Après avoir réalisé une analyse exploratoire des données, les informations suivantes seront représentés :
 
 - la proportion de personnes en état de sous-nutrition ;
 - le nombre théorique de personnes qui pourraient être nourries ;
